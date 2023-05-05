@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: capesh/frontendsockshop:latest
+        image: dsoadmin/frontendsockshop:absplit
         resources:
           limits:
             cpu: 300m
